@@ -24,3 +24,16 @@ Note OED is transitioning to mostly public design documents. The private DevDocs
 - [areaNormalization/areaNormalization.md](./areaNormalization/areaNormalization.md): Documents idea on allowing normalization by area but also probably relates to other normalizations to come.
 - [3DGraphic/3DGraphic.md](./3DGraphic/3DGraphic.md): A new 3D graphic to show usage.
 - [radar/radar.md](./radar/radar.md): A new graphic to show in clock/radar form.
+
+## Homepage/Contacts Edits – Kaitlin
+
+The only features that utilize Javascript are the gallery on homepage contacts dropdown.
+For the homepage, I used a grid layout to display the gallery, info card, and video. 
+- Gallery – https://www.w3schools.com/howto/howto_js_slideshow_gallery.asp 
+- Card for “Why OED?” – https://www.w3schools.com/howto/howto_css_flip_card.asp 
+- Video section – https://www.w3schools.com/tags/tag_video.asp#:~:text=The%20tag%20is%20used,the%20first%20source%20it%20supports
+
+Below this grid there is a gallery section that you can tailor to what you need to display for the website. I just put a contact redirect placeholder. 
+
+- Enable Javascript warning – If a user doesn't have Javascript enabled, this will display. 
+
